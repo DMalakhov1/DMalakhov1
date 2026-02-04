@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Dmitry 👋
 
-<!--
-**DMalakhov1/DMalakhov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst/DS & ML enthusiast from Russia, любитель экспериментировать с данными и моделями.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Working with  analytics, dashboards, SQL queries, A/B tests  
+- 🤖 Learning and building ML models (classification, regression, NLP, recommender systems)  
+- 🧪 Люблю pet-проекты: Kaggle-like задачи, небольшие ML-сервисы, визуализации  
+- 🎯 Сейчас фокус: укрепить портфолио для Data/ML позиций
+
+## Tech Stack
+
+- 🐍 Python: pandas, numpy, matplotlib, seaborn, scikit-learn  
+- 📊 Analytics: SQL, Excel / Google Sheets, BI tools (Power BI / Tableau / укажи свои)  
+- 🤖 ML: classic ML (regression, classification, clustering), feature engineering, model evaluation  
+- 🛠 Tools: Git, Jupyter, VS Code, Docker (если актуально)  
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMalakhov1&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=compact)
+
+## Contacts
+- 💬 Telegram: @DeltaAlphaBettaStrih
+

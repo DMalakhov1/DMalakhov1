@@ -3,24 +3,19 @@
 Data Analyst/DS & ML enthusiast from Russia, любитель экспериментировать с данными и моделями.
 
 ## About me
-
-- 📊 Working with  analytics, dashboards, SQL queries, A/B tests  
-- 🤖 Learning and building ML models (classification, regression, NLP, recommender systems)  
-- 🧪 Люблю pet-проекты: Kaggle-like задачи, небольшие ML-сервисы, визуализации  
-- 🎯 Сейчас фокус: укрепить портфолио для Data/ML позиций
+🤖 Постепенно прокачиваюсь в DS/ML на своих проектах из этого репозитория: пробую разные модели, экспериментирую с фичами и метриками, документирую весь процесс, чтобы было видно, как я расту как специалист.
 
 ## Tech Stack
 
-- 🐍 Python: pandas, numpy, matplotlib, seaborn, scikit-learn  
-- 📊 Analytics: SQL, Excel / Google Sheets, BI tools (Power BI / Tableau / укажи свои)  
-- 🤖 ML: classic ML (regression, classification, clustering), feature engineering, model evaluation  
-- 🛠 Tools: Git, Jupyter, VS Code, Docker (если актуально)  
+- 🐍 Python: pandas, NumPy, Matplotlib, Seaborn, Plotly, datetime и др.  
+- 📊 Analytics: SQL, Excel, аналитические pet‑проекты  
+- 🤖 ML: Classical ML, AMML, feature engineering, оценка моделей (ROC-AUC, F1, MSE)  
+- 🧠 DL & NLP: PyTorch, NLP (nltk, transformers), CV (image classification, transfer learning), LoRA‑тонкая настройка GPT‑моделей  
+- 🛠 Tools: Git, Docker, Jupyter Notebook, VS Code
 
-## GitHub Stats
+## Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMalakhov1&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=donut)
 
 ## Contacts
 - 💬 Telegram: @DeltaAlphaBettaStrih

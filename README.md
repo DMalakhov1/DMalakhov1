@@ -15,8 +15,6 @@ Data Analyst/DS & ML enthusiast from Russia, любитель экспериме
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=donut)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=donut&theme=default)
 
 

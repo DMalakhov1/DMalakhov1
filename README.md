@@ -1,6 +1,7 @@
 # Dmitry Malakhov
 
-Data Analyst / ML Engineer. Занимаюсь анализом данных, разработкой ML-моделей и экспериментами с NLP/CV задачами.
+Data Analyst с интересом к Data Science. Работаю с данными, строю аналитические модели и экспериментирую с машинным обучением в NLP и Computer Vision.
+
 
 ## Tech Stack & Tools
 
@@ -27,7 +28,7 @@ Python, R (эконометрические пакеты), SQL
 pandas, NumPy, scikit-learn (KNN, GaussianNB, Linear Regression, SVR, Random Forest, Gradient Boosting, CatBoost), кросс-валидация, подбор гиперпараметров, метрики качества (ROC-AUC, F1, MSE), feature engineering
 
 **Deep Learning & NLP:**  
-PyTorch, transformers, nltk, Transfer Learning, LoRA fine-tuning, Computer Vision (классификация изображений, Albumentations), early stopping, LR schedulers
+PyTorch, transformers, nltk, Transfer Learning, LoRA fine-tuning, Computer Vision (классификация изображений, Albumentations)
 
 **Visualization & BI:**  
 Matplotlib, Seaborn, Plotly, GeoPandas, Excel

@@ -1,23 +1,28 @@
-# Hi there, I'm Dmitry 👋
+# Dmitry Malakhov
 
-Data Analyst/DS & ML enthusiast from Russia, любитель экспериментировать с данными и моделями.
+Data Analyst / ML Engineer. Занимаюсь анализом данных, разработкой ML-моделей и экспериментами с NLP/CV задачами.
 
-## About me
-🤖 Постепенно прокачиваюсь в DS/ML на своих проектах из этого репозитория: пробую разные модели, экспериментирую с фичами и метриками, документирую весь процесс, чтобы было видно, как я расту как специалист.
+## Tech Stack & Tools
 
-## Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🐍 Python: pandas, NumPy, Matplotlib, Seaborn, Plotly, datetime и др.  
-- 📊 Analytics: SQL, Excel, аналитические pet‑проекты  
-- 🤖 ML: Classical ML, AMML, feature engineering, оценка моделей (ROC-AUC, F1, MSE)  
-- 🧠 DL & NLP: PyTorch, NLP (nltk, transformers), CV (image classification, transfer learning), LoRA‑тонкая настройка GPT‑моделей  
-- 🛠 Tools: Git, Docker, Jupyter Notebook, VS Code
+**Data Analysis & ML:**  
+pandas, NumPy, scikit-learn (KNN, Random Forest, CatBoost, Gradient Boosting), кросс-валидация, подбор гиперпараметров, метрики качества (ROC-AUC, F1, MSE)
 
-## Top Languages
+**Deep Learning & NLP:**  
+PyTorch, transformers, nltk, Transfer Learning, LoRA fine-tuning, компьютерное зрение (классификация изображений, аугментации через Albumentations)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=compact)
+**Visualization & Tools:**  
+Matplotlib, Seaborn, Plotly, GeoPandas, Jupyter Notebook, VS Code
 
+## GitHub Stats
 
-## Contacts
-- 💬 Telegram: @DeltaAlphaBettaStrih
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=compact&theme=default)
 
+## Contact
+
+Telegram: [@DeltaAlphaBettaStrih](https://t.me/DeltaAlphaBettaStrih)

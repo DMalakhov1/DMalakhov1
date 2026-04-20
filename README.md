@@ -22,23 +22,6 @@ I work with data, build analytical models, and develop practical ML solutions in
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Languages:**  
-Python, SQL, R
-
-**Data Analysis & Machine Learning:**  
-pandas, NumPy, scikit-learn, feature engineering, cross-validation, hyperparameter tuning, model evaluation
-
-**Deep Learning & NLP:**  
-PyTorch, transformers, LoRA fine-tuning, nltk, transfer learning
-
-**Computer Vision:**  
-image classification, OpenCV, Albumentations
-
-**Visualization & Analytics:**  
-Matplotlib, Seaborn, Plotly, GeoPandas, Excel
-
-**Tools:**  
-Git, Docker, Jupyter Notebook, VS Code, Google Colab
 
 ## Areas of Interest
 

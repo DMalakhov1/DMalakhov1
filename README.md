@@ -1,10 +1,9 @@
 # Dmitry Malakhov
 
-Data Analyst с интересом к Data Science. Работаю с данными, строю аналитические модели и экспериментирую с машинным обучением в NLP и Computer Vision.
+Data Analyst with a strong interest in Data Science and Machine Learning.  
+I work with data, build analytical models, and develop practical ML solutions in NLP and Computer Vision.
 
-
-## Tech Stack & Tools
-
+## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -23,23 +22,32 @@ Data Analyst с интересом к Data Science. Работаю с данны
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Языки программирования:**  
-Python, R (эконометрические пакеты), SQL
+**Languages:**  
+Python, SQL, R
 
-**Data Analysis & ML:**  
-pandas, NumPy, scikit-learn (KNN, GaussianNB, Linear Regression, SVR, Random Forest, Gradient Boosting, CatBoost), кросс-валидация, подбор гиперпараметров, метрики качества (ROC-AUC, F1, MSE), feature engineering
+**Data Analysis & Machine Learning:**  
+pandas, NumPy, scikit-learn, feature engineering, cross-validation, hyperparameter tuning, model evaluation
 
 **Deep Learning & NLP:**  
-PyTorch, transformers, nltk, Transfer Learning, LoRA fine-tuning, Computer Vision (классификация изображений, Albumentations)
+PyTorch, transformers, LoRA fine-tuning, nltk, transfer learning
 
-**Visualization & BI:**  
+**Computer Vision:**  
+image classification, OpenCV, Albumentations
+
+**Visualization & Analytics:**  
 Matplotlib, Seaborn, Plotly, GeoPandas, Excel
 
-**Tools & Environment:**  
+**Tools:**  
 Git, Docker, Jupyter Notebook, VS Code, Google Colab
 
-**Other Skills:**  
-A/B тестирование, математическая статистика и теория вероятностей, линейная алгебра, работа с геопространственными данными
+## Areas of Interest
+
+- Data Analysis
+- Machine Learning
+- NLP
+- Computer Vision
+- A/B testing
+- Mathematical statistics
 
 ## GitHub Stats
 

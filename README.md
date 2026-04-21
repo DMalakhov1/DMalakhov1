@@ -31,7 +31,3 @@ I work with data, build analytical models, and develop practical ML solutions in
 - Computer Vision
 - A/B testing
 - Mathematical statistics
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMalakhov1&layout=compact&theme=default)

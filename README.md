@@ -10,9 +10,9 @@ reproducible ML workflows for NLP, computer vision, ranking, and tabular modelin
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [Ranepa Helper NLP Bot](https://github.com/DMalakhov1/Ranepa_helper_nlp_bot) | Hybrid FAQ + RAG + SQL Telegram assistant for university applicants | FAISS · SQLite · Transformers · LLM |
-| 🧠 [Russian LoRA Fine-Tuning](https://github.com/DMalakhov1/PROJECT_LORA) | Parameter-efficient fine-tuning of Russian LLMs on 8,641 labeled examples | PyTorch · LoRA · Hugging Face |
-| 📊 [Applied ML Cases](https://github.com/DMalakhov1/AMML) | Course and competition-style ML projects: ranking, pricing, NLP classification, CV | scikit-learn · CatBoost · PyTorch |
+| [Ranepa Helper NLP Bot](https://github.com/DMalakhov1/Ranepa_helper_nlp_bot) | Hybrid FAQ + RAG + SQL Telegram assistant for university applicants | FAISS · SQLite · Transformers · LLM |
+| [Russian LoRA Fine-Tuning](https://github.com/DMalakhov1/PROJECT_LORA) | Parameter-efficient fine-tuning of Russian LLMs on 8,641 labeled examples | PyTorch · LoRA · Hugging Face |
+| [Applied ML Cases](https://github.com/DMalakhov1/AMML) | Course and competition-style ML projects: ranking, pricing, NLP classification, CV | scikit-learn · CatBoost · PyTorch |
 
 ## Tech Stack
 
@@ -40,3 +40,4 @@ NLP · RAG · LLM fine-tuning · Retrieval systems · Classical ML · Computer v
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/DeltaAlphaBettaStrih)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmitryvidnoe@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:dmitryvidnoe@yandex.ru)
